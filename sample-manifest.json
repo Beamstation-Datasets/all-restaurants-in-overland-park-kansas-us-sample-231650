@@ -1,0 +1,12 @@
+{
+  "export_job_id": "394dcacc-f744-4fca-a00c-e627c0a3bb97",
+  "id_short": 231650,
+  "published_at": "2026-04-11T07:10:54Z",
+  "repo_name": "all-restaurants-in-overland-park-kansas-us-sample-231650",
+  "sample_asset_name": "beamstation_231650_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/231650/beamstation_231650_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_records": 52,
+  "sample_sha256": "39b7d1c8234e9d23f3ff8a82b7ae3dc0d8537c44459e7e941d0a6874ebf92826",
+  "sample_size_bytes": 204892,
+  "total_records": 527
+}
