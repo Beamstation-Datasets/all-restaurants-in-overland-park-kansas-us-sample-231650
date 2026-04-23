@@ -1,6 +1,6 @@
 # All Restaurants in Overland Park, Kansas, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `231650` |
 | Location | Overland Park |
 | Category | Restaurants |
-| Full dataset size | 511 records |
-| Free sample size | 51 records (9.98%) |
-| Last export | 2026-04-16T15:13:10.745424+00:00 |
+| Full dataset size | 331 records |
+| Free sample size | 33 records (9.97%) |
+| Last export | 2026-04-23T13:25:58.622966+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-overland-park-kansas-us-sample-231650/releases/download/sample-latest/beamstation_231650_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
